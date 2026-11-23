@@ -10,6 +10,7 @@ I'm exploring real-time systems, data visualization, and the human stories behin
 | --- | --- |
 | ⚽ [PitchPulse AI](https://github.com/Faruk-Icn/PitchPulse-AI) | Built for the [Inside the Game Developer Hackathon](https://innovationstudio.microsoft.com/hackathons/insidethegamedeveloperhackathon). Turns synthetic football match events into live tactical overlays for analysts and a personalized, multilingual fan feed. [Studio preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/studio-demo.png) · [Fan feed preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/fan-demo.png) |
 | 📊 [TaskTrooper Telemetry](https://github.com/makifbaysal/tasktrooper-telemetry) | A team project for the [Meta Global AI Developer Hackathon](https://dev.meta.ai/events/global-hackathon): an observability dashboard for service health, incidents, logs, and code insights. I worked on the dashboard experience and AI-assisted explain and enrichment workflows, with a local mock mode for development. |
+| 🐪 [PC Pet](https://github.com/hass-nation/GenCityFirstYearHack) | Built with a team for Gen City First Year Hack: a student planner with a virtual pet, reminders, app and website streaks, and shared focus sessions. I worked on the planner, Windows activity tracking, XP and streaks, and focus parties. [Browser demo](https://hass-nation.github.io/GenCityFirstYearHack/) |
 | 🧩 [GMLK](https://github.com/Faruk-Icn/GML) | An open-source Luau framework for loading Roblox modules with `Init` and `Start` hooks, plus utilities for signals, remotes, cleanup, timers, and more. |
 | 🌸 [Dear Data: Mood Garden](https://github.com/Faruk-Icn/Dear-Data-100-Project) | A creative visualization of where, why, and how long I wait—and how those moments affect my mood. |
 
@@ -30,6 +31,7 @@ I'm exploring real-time systems, data visualization, and the human stories behin
 **Frameworks, platforms & workflow**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-2C3E50?style=flat&logo=socketdotio&logoColor=white)
@@ -37,6 +39,8 @@ I'm exploring real-time systems, data visualization, and the human stories behin
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## GitHub activity
